@@ -1,5 +1,6 @@
 .main{
     display: grid;
+    background-color: whitesmoke;
 }
 
 .greeting{
